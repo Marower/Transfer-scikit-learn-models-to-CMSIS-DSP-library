@@ -1,0 +1,2 @@
+../Core/Src/SVMPolynomialClassifier.c:12:6:initARMSVMPolynomialClasificator	24	static
+../Core/Src/SVMPolynomialClassifier.c:32:10:predictSVMPolynomial	24	static

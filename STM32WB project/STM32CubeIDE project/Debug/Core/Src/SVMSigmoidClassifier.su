@@ -1,0 +1,2 @@
+../Core/Src/SVMSigmoidClassifier.c:12:6:initARMSVMSigmoidClasificator	16	static
+../Core/Src/SVMSigmoidClassifier.c:31:10:predictSVMSigmoid	24	static

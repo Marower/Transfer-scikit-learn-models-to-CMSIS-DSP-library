@@ -1,0 +1,2 @@
+naiveBayesClassifier.c:12:6:initARMGaussianNaiveBayesClasificator	1
+naiveBayesClassifier.c:22:10:predictClassNaiveBayes	1

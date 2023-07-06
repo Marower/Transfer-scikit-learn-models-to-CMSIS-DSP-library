@@ -1,0 +1,2 @@
+../Core/Src/SVMLinearClassifier.c:13:6:initARMSVMLinearClasificator	16	static
+../Core/Src/SVMLinearClassifier.c:26:10:predictSVMLinear	24	static

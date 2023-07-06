@@ -1,0 +1,2 @@
+../Classifiers/naiveBayesClassifier.c:9:6:initARMGaussianNaiveBayesClasificator	4	static
+../Classifiers/naiveBayesClassifier.c:19:10:predictClassNaiveBayes	40	static
